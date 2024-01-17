@@ -20,6 +20,7 @@
 * [Bonus CTF practice and Latest CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
 * [Bonus Windows](#bonus-windows) - (Completed/In Progress)
 * [Extremely Hard Rooms to do](#extremely-hard-rooms-to-do) - (Completed/In Progress)
+* github.com/brootware/Cyber-Security-University"><imgsrc="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
 
 <!-- | Paths                              | Completion |
 | -------------------------------- | ---------------------|
